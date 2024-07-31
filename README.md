@@ -49,7 +49,7 @@ O foco principal do projeto são as reservas e as vendas que ocorrem no empreend
 Os requisitos da modelagem foram atendidos da seguinte forma:
 
 - Atributos:
-  - Composto, multivalorado, atributo em relacionamento
+  - Composto, Multivalorado, Atributo em relacionamento
   
     - Informacoes, Sabor , Turno no relacionamento vende
 
@@ -58,7 +58,7 @@ Os requisitos da modelagem foram atendidos da seguinte forma:
   - Relacionamento 1:1, 1:N, N:M
     - Cliente-CartãoFidelidade, Funcionário-Venda, Reserva-Salgados
 
-  - Relacionamento parcial-total, parcial-parcial
+  - Relacionamento Parcial-total, Relacionamento Parcial-parcial
 
     - Funcionario-Pedido,Cliente-Salgado
 
